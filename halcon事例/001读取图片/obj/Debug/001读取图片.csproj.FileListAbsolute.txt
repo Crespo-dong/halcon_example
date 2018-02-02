@@ -1,0 +1,11 @@
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\bin\Debug\001读取图片.exe.config
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\bin\Debug\001读取图片.exe
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\bin\Debug\001读取图片.pdb
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\bin\Debug\halcondotnet.dll
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\bin\Debug\halcondotnet.xml
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\obj\Debug\001读取图片.csprojResolveAssemblyReference.cache
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\obj\Debug\_001读取图片.Form1.resources
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\obj\Debug\_001读取图片.Properties.Resources.resources
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\obj\Debug\001读取图片.csproj.GenerateResource.Cache
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\obj\Debug\001读取图片.exe
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\001读取图片\obj\Debug\001读取图片.pdb
