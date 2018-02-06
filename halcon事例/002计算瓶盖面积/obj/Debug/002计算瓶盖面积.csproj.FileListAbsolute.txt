@@ -1,0 +1,11 @@
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\bin\Debug\002计算瓶盖面积.exe.config
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\obj\Debug\002计算瓶盖面积.csprojResolveAssemblyReference.cache
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\obj\Debug\_002计算瓶盖面积.Form1.resources
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\obj\Debug\_002计算瓶盖面积.Properties.Resources.resources
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\obj\Debug\002计算瓶盖面积.csproj.GenerateResource.Cache
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\bin\Debug\002计算瓶盖面积.exe
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\bin\Debug\002计算瓶盖面积.pdb
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\bin\Debug\halcondotnet.dll
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\bin\Debug\halcondotnet.xml
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\obj\Debug\002计算瓶盖面积.exe
+C:\Users\zhuwei\Documents\GitHub\halcon\halcon事例\002计算瓶盖面积\obj\Debug\002计算瓶盖面积.pdb
